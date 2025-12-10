@@ -1,0 +1,7 @@
+streamlit>=1.30
+tensorflow>=2.10
+keras>=2.10
+numpy>=1.22
+librosa>=0.10
+matplotlib>=3.7
+pydub>=0.25
